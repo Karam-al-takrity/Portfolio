@@ -15,7 +15,7 @@ const About = () => {
   };
 
   return (
-    <section className="c-space my-20">
+    <section className="c-space my-20" id="about">
       <div className="grid h-full grid-cols-1 gap-5 md:grid-cols-2 xl:grid-cols-3 xl:grid-rows-2">
         {/* // First Span */}
         <div className="col-span-1 xl:row-span-2">

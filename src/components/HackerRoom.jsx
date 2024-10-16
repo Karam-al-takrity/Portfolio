@@ -31,6 +31,7 @@ const HackerRoom = (props) => {
       >
         <meshMatcapMaterial map={monitortxt} />
       </mesh>
+
       <mesh
         geometry={nodes.table_table_mat_0_3.geometry}
         material={materials.server_mat}
