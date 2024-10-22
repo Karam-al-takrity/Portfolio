@@ -20,7 +20,7 @@ const Projects = () => {
     });
   };
   return (
-    <section className="c-space my-20">
+    <section className="c-space my-20" id="work">
       <p className="head-text">My Work</p>
       <div className="mt-12 grid w-full grid-cols-1 gap-5 lg:grid-cols-2">
         <div className="relative flex flex-col gap-5 px-5 py-10 shadow-2xl shadow-black-200 sm:p-10">
